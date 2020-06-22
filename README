@@ -1,1 +1,63 @@
 This is a collection for design patterns.
+https://en.wikipedia.org/wiki/Software_design_pattern
+
+
+I. Creational Patterns
+1. Bilder
+2. Depedency injection
+3. Factory method
+4. Lazy initilization
+5. Multion
+6. Object poll
+7. Prototype
+8. Resource acuisition is initilization (RAII)
+9. Singleton --> Finish
+
+II. Structural Patterns
+1. Adapter, (Wrapper, or Translator)
+2. Bridge
+3. Composite
+4. Decorator
+5. Extension Object
+6. Facade
+7. Flyweight
+8. Front controller
+9. Marker
+10. Module
+11. Proxy
+12. Twin
+
+III. Behavioral Patterns
+1. Blackboard
+2. Chain of responsibility
+3. Command
+4. Interpreter
+5. Iterator
+6. Mediator
+7. Memento
+8. Observer (or Publish/Subscrible)
+9. Servant
+10. Specification
+11. State
+12. Stratege
+13. Template method
+14. Visitor
+
+IV. Concurrent Patterns
+1. Active object
+2. Balking
+3. Binding properties
+4. Compute kernel
+5. Double-checked locking
+6. Event-based asynchronous
+7. Guarded suspension
+8. Join
+9. Lock 
+10. Messaging design pattern (MDP)
+11. Monitor object
+12. Reactor
+13. Read-write lock
+14. Scheduler
+15. Thread pool
+16. Thread-specific storage
+

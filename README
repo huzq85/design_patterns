@@ -1,7 +1,7 @@
 This is a collection for design patterns.
 https://en.wikipedia.org/wiki/Software_design_pattern
 
-
+TODOs:
 I. Creational Patterns
 1. Bilder
 2. Depedency injection
@@ -61,3 +61,4 @@ IV. Concurrent Patterns
 15. Thread pool
 16. Thread-specific storage
 
+To add unit test framework.

@@ -1,4 +1,5 @@
 #include "singleton.hpp"
+#include "state_pattern.hpp"
 #include <iostream>
 
 int main(void)
@@ -10,5 +11,8 @@ int main(void)
     another->pringAddr();
     inst->releaseInstance();
     another->releaseInstance();
+
+    // Testing for State pattern
+
     return 0;
 }
